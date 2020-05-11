@@ -1,4 +1,4 @@
-.container {
+  .container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,21 +16,21 @@
   }
   
   .infected {
-    border-width: 5px 0 5px 0;
+    border-width: 5px 0px 5px 0px;
     border-color: rgb(255, 0, 0);
     border-style: solid;
   }
   
   .recovered{
     border-width: 5px 0 5px 0;
-border-color: green;
-border-style: solid;
+    border-color: green;
+    border-style: solid;
   }
   
   .deaths{
     border-width: 5px 0 5px 0;
-border-color: black;
-border-style: solid;
+    border-color: black;
+    border-style: solid;
 
   }
   
